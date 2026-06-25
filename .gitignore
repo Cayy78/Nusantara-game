@@ -8,8 +8,6 @@
 [Mm]emoryCaptures/
 
 # Auto-generated IDE/project files
-*.csproj
-*.sln
 *.user
 *.tmp
 *.pidb
