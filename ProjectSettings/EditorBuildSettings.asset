@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c33b86e4661f476479ed0549d5fcabac
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SelectMode.unity
+    guid: 782e81e68bd51f94786310fc8d28195f
+  - enabled: 1
+    path: Assets/Scenes/SelectGameSinglePlayer.unity
+    guid: 038a0611bacfc5840810ab7c2d0e12e0
+  - enabled: 1
+    path: Assets/Scenes/SelectGameMultiplayer.unity
+    guid: 7b56e8a090dcf1a43bc159e2062da1b6
+  - enabled: 1
+    path: Assets/Scenes/SelectDifficultySinglePlayer.unity
+    guid: 02359d924e92b3245b730dc13b332573
+  - enabled: 1
+    path: Assets/Scenes/SelectDifficultyMultiPlayer.unity
+    guid: e4318c673dc597e488c505fdcdeb0543
+  - enabled: 1
+    path: Assets/Scenes/Egrang.unity
+    guid: ec14dcf5883d15a4f9934be0b9293f2b
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacterSinglePlayer.unity
+    guid: f037e608c7a63f748bd05d1537589915
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacterMultiPlayer.unity
+    guid: 136edc44eddfbb047aea1e6247685db9
+  - enabled: 1
+    path: Assets/Scenes/GameplayInfo.unity
+    guid: c42c4931bfa601c49b953e822a20434b
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Panjat Pinang/PanjatPinangSingleEasy.unity
+    guid: 3f0b0d577df7d6740adc1d01fe8bc84a
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Panjat Pinang/PanjatPinangSingleMedium.unity
+    guid: dd81ff98541410e488a0cdff31c58dd3
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Panjat Pinang/PanjatPinangSingleHard.unity
+    guid: 3dd918aed619f434d84407f86b1f4719
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Balap Karung/BalapKarungSingleEasy.unity
+    guid: c2dfc806c9e395a429f09158ba5493a5
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Balap Karung/BalapKarungSingleMedium.unity
+    guid: fa3790a63a92db14780e76ce22acc148
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Balap Karung/BalapKarungSingleHard.unity
+    guid: 417e3e9e18dfb024b905e5f73eb43bd5
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Tarik Tambang/TarikTambangSingleEasy.unity
+    guid: 697578a085b5e3f48bdc6a20720529a7
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Tarik Tambang/TarikTambangSingleMedium.unity
+    guid: 043e84b24efab1b48ad7371f26b39734
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Tarik Tambang/TarikTambangSingleHard.unity
+    guid: f7e8c4677ff8710419a1d8594e03b395
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Makan Kerupuk/MakanKerupukSingleEasy.unity
+    guid: 40b406c0e7438de4487547e7858068be
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Makan Kerupuk/MakanKerupukSingleMedium.unity
+    guid: 955b3df84a53a2740a1a540a22215219
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Makan Kerupuk/MakanKerupukSingleHard.unity
+    guid: 494c0d4aa8927924384e01a67e4ba5e9
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Paku Botol/PakubotolSingleEasy.unity
+    guid: 858525bafa48123498d940a02b452e13
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Paku Botol/PakubotolSingleMedium.unity
+    guid: 0c24a9fc821833d40a7562592b0ae11f
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Paku Botol/PakubotolSingleHard.unity
+    guid: 48a38051c55648d479be9945e282e146
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lempar Sandal/LemparSandalSingleEasy.unity
+    guid: f4fec5f71f0a8cc4ca290a5f7cf5b121
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lempar Sandal/LemparSandalSingleMedium.unity
+    guid: 060e20c7d73b311488777e9014a7f491
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lempar Sandal/LemparSandalSingleHard.unity
+    guid: 4eaf6f94e2622b54c9d58528a7e7203e
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Kelereng/KelerengSingleEasy.unity
+    guid: 9660cc2827c650842944d3645c4ea8bc
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Kelereng/KelerengSingleMedium.unity
+    guid: 46254d4c52232b54185e84ae4f61d2af
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Kelereng/KelerengSingleHard.unity
+    guid: ff7b7a023b7d39b45bd8913b75a79854
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lompat Tali/LompatTaliSingleEasy.unity
+    guid: ff9d4afc1f0c12845b1d94760ba60292
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lompat Tali/LompatTaliSingleMedium.unity
+    guid: abb0f4766df7f144b9c031bc3d642e22
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Lompat Tali/LompatTaliSingleHard.unity
+    guid: 07df9f5e53dc1cb43ba3ef318473fb8e
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Egrang/EgrangSingleEasy.unity
+    guid: 4ef2fb50c6de5194caaf70b335f86bc1
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Egrang/EgrangSingleMedium.unity
+    guid: dc792a69f720364429c0f56916f616bf
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Egrang/EgrangSingleHard.unity
+    guid: 4a6a1b065bfe5c34e8d514850c4981a7
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Bakiak/BakiakSingleEasy.unity
+    guid: 1316c9d4fbdc9914c894a782e7cccc6d
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Bakiak/BakiakSingleMedium.unity
+    guid: 6ffba071a80799843aa883a72afc42bf
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/SinglePlayer/Bakiak/BakiakSingleHard.unity
+    guid: 84145267b9c9a334dbd6c30130ddfa4f
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Panjat Pinang/PanjatPinangMultiEasy.unity
+    guid: c4d3a9f532b28434dbbec818f79ca8ea
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Panjat Pinang/PanjatPinangMultiMedium.unity
+    guid: af5b2a77fe80c3d46bbf5bb6518ea112
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Panjat Pinang/PanjatPinangMultiHard.unity
+    guid: 07e1d9570e5ba6c4f9f7c2b187544881
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Balap Karung/BalapKarungMultiEasy.unity
+    guid: 988db4f94120ac74db6927b44f9ab157
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Balap Karung/BalapKarungMultiMedium.unity
+    guid: 170c37e2d63e72f47b199d1d6c5f7f13
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Balap Karung/BalapKarungMultiHard.unity
+    guid: 689c09dd2c32b624d9fb82a77c2630a6
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Tarik Tambang/TarikTambangMultiEasy.unity
+    guid: 6433e9e1b34db094e8b7892a64daef23
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Tarik Tambang/TarikTambangMultiMedium.unity
+    guid: e7afca47f24e1a64fa77e4f0ce4d573b
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Tarik Tambang/TarikTambangMultiHard.unity
+    guid: d3c17c64cdc66f543971a35b174f5617
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Makan Kerupuk/MakanKerupukMultiEasy.unity
+    guid: 3cdf2a6f5f1d3b741960f6f7f469683c
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Makan Kerupuk/MakanKerupukMultiMedium.unity
+    guid: 4edeb5e5b1f4731469def5371bc97296
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Makan Kerupuk/MakanKerupukMultiHard.unity
+    guid: e8e2f259a4660a94d8807710682f328c
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Paku Botol/PakuBotolMultiEasy.unity
+    guid: f9797259e286ce74c9a4fe0df05d748f
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Paku Botol/PakuBotolMultiMedium.unity
+    guid: d2f516200094cb34fb3e316676513199
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Paku Botol/PakuBotolMultiHard.unity
+    guid: 1db8bda16c5d90a4488a200cf8fd954d
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lempar Sandal/LemparSandalMultiEasy.unity
+    guid: 2a55b0a0492911548ad66e5db7191813
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lempar Sandal/LemparSandalMultiMedium.unity
+    guid: 66395a59862e13c44bf4603a74fe7644
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lempar Sandal/LemparSandalMultiHard.unity
+    guid: 4667b1c93a0cd3c4989bfe8cae6657dc
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Kelereng/KelerengMultiEasy.unity
+    guid: fae5d5266c52e234fb922f836605a1a8
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Kelereng/KelerengMultiMedium.unity
+    guid: 9dee12f8a2baea149a6399c65276cdbe
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Kelereng/KelerengMultiHard.unity
+    guid: e4b4f300a4e544f47a13866c025dc295
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lompat Tali/LompatTaliMultiEasy.unity
+    guid: dc557c1806306554fa1d9d0613f618df
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lompat Tali/LompatTaliMultiMedium.unity
+    guid: b5c338748b8127f49a2ad5a0832be784
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Lompat Tali/LompatTaliMultiHard.unity
+    guid: 1cd9ac5ef68b9fc43b951e7c631a8145
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Egrang/EgrangMultiEasy.unity
+    guid: 5f002b0717274894a89d3d5a38eb7c16
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Egrang/EgrangMultiMedium.unity
+    guid: 16e00a75a2072af4291ae19b7116769b
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Egrang/EgrangMultiHard.unity
+    guid: b5c2188ddfa79d24b9ccdbacde9536bc
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Bakiak/BakiakMultiEasy.unity
+    guid: 2664c61cb08d1b54c997aea5c99e3153
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Bakiak/BakiakMultiMedium.unity
+    guid: 7d29463c3c6d87f47a3d6f4ce62336f7
+  - enabled: 1
+    path: Assets/Scenes/Scene Gameplay/MultiPlayer/Bakiak/BakiakMultiHard.unity
+    guid: de252424b2e856040b596f911970f98f
+  m_configObjects: {}

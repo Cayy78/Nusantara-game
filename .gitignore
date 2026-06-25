@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Auto-generated IDE/project files
+*.csproj
+*.sln
+*.user
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity cache / generated
+Assets/AssetStoreTools*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
